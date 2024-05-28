@@ -4,36 +4,41 @@
 This project analyzes several clinicopathologic features of thyroid cancer to acquire results on its pathology and occurrence. 
 Thyroid cancer mortality is low; whereas, its recurrence risk is still a significant concern. Analyzing this dataset also provides risk level assessment. 
 
-
-
-
 ## Libraries
 Python Pandas, MatPlotLib, and Seaborn libraries.
 ## Findings
 This data analysis demonstrates the following outcomes:
 
-1A- With age, the possibility of thyroid cancer invading other tissues increases.
-1B- Thyroid cancer growing outside happens in a wide age range.
-1C- Late-stage cancer diagnosis observed in aged patients. 
+![image1](https://github.com/SevilayMuni/Project-No.3-ThyroidCancer-DA/blob/main/generated-graphs/Tumor-and-Cancer-Stage-Box-Plots.png)
+- With age, the possibility of thyroid cancer invading other tissues increases.
+- Thyroid cancer growing outside happens in a wide age range.
+- Late-stage cancer diagnosis observed in aged patients. 
 
-2A- 65% of thyroid cancers possess low risk.
-2B- 87% of thyroid cancers are diagnosed at their first stage.
+![image2](https://github.com/SevilayMuni/Project-No.3-ThyroidCancer-DA/blob/main/generated-graphs/Risk-Level-and-Cancer-Stage-Distributions.png)
+- 65% of thyroid cancers possess low risk.
+- 87% of thyroid cancers are diagnosed at their first stage.
 
-3A- 95% of thyroid cancers are non-metastatic.
-3B- 75% of thyroid cancers are papillary kind.
+![image3](https://github.com/SevilayMuni/Project-No.3-ThyroidCancer-DA/blob/main/generated-graphs/Metastasis-and-Pathology-Distributions.png)
+- 95% of thyroid cancers are non-metastatic.
+- 75% of thyroid cancers are papillary kind.
 
-4A- Thyroid cancer mostly appears in ages between 25-35. 
+![image4](https://github.com/SevilayMuni/Project-No.3-ThyroidCancer-DA/blob/main/generated-graphs/Histogram-Age-Distribution.png)
+- Thyroid cancer mostly appears in ages between 25-35. 
 
-5A- Thyroid cancer predominantly occurs in females.
-5B- No correlation exists between thyroid cancer and smoking.
+![image5](https://github.com/SevilayMuni/Project-No.3-ThyroidCancer-DA/blob/main/generated-graphs/Gender-Smoking-Metastasis-Counts-BarGraph.png)
+- Thyroid cancer predominantly occurs in females.
+- No correlation exists between thyroid cancer and smoking.
 
-6A- Most thyroid cancer patients do not receive radiotherapy.
-6B- Treatment response is generally excellent.
-6C- Thyroid cancer recurrence is low.
+![image6](https://github.com/SevilayMuni/Project-No.3-ThyroidCancer-DA/blob/main/generated-graphs/Radiotherapy-TreatmentResponse-Recurrence-Counts-BarGraph.png)
+- Most thyroid cancer patients do not receive radiotherapy.
+- Treatment response is generally excellent.
+- Thyroid cancer recurrence is low.
 
-7A- In most thyroid cancer cases, no adenopathy is present. 
-7B- Right side and bilateral adenopathy is not dependent on the patient's age.
-7C- Nonetheless, left-side adenopathy is usually found in patients younger than 50. 
+![image7](https://github.com/SevilayMuni/Project-No.3-ThyroidCancer-DA/blob/main/generated-graphs/Age-vs-Adenopathy-SwarmPlot.png)
+- In most thyroid cancer cases, no adenopathy is present. 
+- Right side and bilateral adenopathy are not dependent on the patient's age.
+- Nonetheless, left-side adenopathy is usually found in patients younger than 50. 
+
 ## Table Legend
 Smoking History: whether individuals have a history of smoking (Yes or No).
 
