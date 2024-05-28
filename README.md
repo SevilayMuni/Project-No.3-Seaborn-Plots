@@ -1,5 +1,5 @@
 
-# Differentiated Thyroid Cancer Comprehensive Analysis
+# Pandas and Seaborn Mediated Comprehensive Analysis on Differentiated Thyroid Cancer: Data Discovering, Structuring, Visualization
 
 This project analyzes several clinicopathologic features of thyroid cancer to acquire results on its pathology and occurrence. 
 Thyroid cancer mortality is low; whereas, its recurrence risk is still a significant concern. Analyzing this dataset also provides risk level assessment. 
